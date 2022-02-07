@@ -1,3 +1,3 @@
 # Mitochondria-Segmentation
 
-Unet for Mitochondria Segmentation on the Electron Microscopy dataset.
+Unet (simple, build from scratch) for Mitochondria Segmentation on the Electron Microscopy dataset.
